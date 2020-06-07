@@ -1,0 +1,1 @@
+• Implemented integer-based linear programming optimization technique using Solver to minimize the transportation cost of a noted brewery by defining equations of constraints and objective function and performed a one-way, two-way sensitivity analysis
